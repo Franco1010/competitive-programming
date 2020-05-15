@@ -21,13 +21,7 @@ const int N = 1e6 + 5;
 string v;
 lli dp[N][3];
 lli vis[N][3];
-lli acu[N];
 lli cur = 1;
-lli n, k;
-lli s(lli l, lli r){
-  if(l > r) return 0;
-  return acu[min(n, r)] - acu[max(0ll, l - 1)];
-}
 lli solve(lli x = 0, lli state = 0){
   if(x >= sz(v)) return 0;
   lli &ans = dp[x][state];
@@ -36,27 +30,33 @@ lli solve(lli x = 0, lli state = 0){
     done = cur;
     ans = INF;
     if(state == 0){
-      ans = min(ans, solve(x + k, 0) + (v[x] == '1'));
-      ans = min(ans, solve(x + k, 1) + (v[x] == '0'));
+      ans = min(ans, solve(x + 1, 0) + (v[x] == '1'));
+      ans = min(ans, solve(x + 1, 1) + (v[x] == '0'));
     }else if(state == 1){
-      ans = min(ans, solve(x + k, 1) + (v[x] == '0'));
-      ans = min(ans, solve(x + k, 2) + (v[x] == '1'));
+      ans = min(ans, solve(x + 1, 1) + (v[x] == '0'));
+      ans = min(ans, solve(x + 1, 2) + (v[x] == '1'));
     }else{
-      ans = min(ans, solve(x + k, 2) + (v[x] == '1'));
+      ans = min(ans, solve(x + 1, 2) + (v[x] == '1'));
     }
-    ans += s(x + 2, x + k);
   }
   return ans;
 }
 int main(){ _
   lli t; cin >> t;
   while(t--){
-    cin >> n >> k;
-    cin >> v;
-    fore(i, 0, n) acu[i + 1] = acu[i] + (v[i] == '1');
+    lli n, k; cin >> n >> k;
+    string s; cin >> s;
+    map<lli,string> mp;
+    map<lli,lli> cnt;
+    lli tot = 0;
+    fore(i, 0, n){
+      mp[i % k].pb(s[i]);
+      if(s[i] == '1') tot++, cnt[i % k]++;
+    }
     lli ans = INF;
     fore(i, 0, k){
-      ans = min(ans, solve(i) + s(0, i));
+      v = mp[i];
+      ans = min(ans, solve() + tot - cnt[i]);
       cur++;
     }
     cout << ans << ENDL;
