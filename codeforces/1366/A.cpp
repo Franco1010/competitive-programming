@@ -21,7 +21,9 @@ int main(){ _
   lli t; cin >> t;
   while(t--){
     lli a, b; cin >> a >> b;
-    cout << min({(a + b) / 3ll, a, b}) << ENDL;
+    if(a * 2ll <= b) cout << a << ENDL;
+    else if(b * 2ll <= a) cout << b << ENDL;
+    else cout << (a + b) / 3ll << ENDL;
   }
   return 0;
 }
