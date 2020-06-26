@@ -1682,6 +1682,26 @@
     ],
     "timestamp": "Dec/30/2020 10:51"
   },
+  "CF85087692": {
+    "contest_id": 1370,
+    "language": "GNU C++17",
+    "path": "codeforces/1370/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Odd-Even Subsequence",
+    "problem_url": "https://codeforces.com/contest/1370/problem/D",
+    "submission_id": "CF85087692",
+    "submission_url": "https://codeforces.com/contest/1370/submission/85087692",
+    "tags": [
+      "binary search",
+      "dp",
+      "dsu",
+      "greedy",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Jun/25/2020 23:03"
+  },
   "CF85304109": {
     "contest_id": 1374,
     "language": "GNU C++17",
