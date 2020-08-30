@@ -24,14 +24,21 @@ int main(){ _
   lli t; cin >> t;
   while(t--){
     lli n; cin >> n;
-    lli sum = 0, mx = 0;
+    priority_queue<lli> pq;
     fore(i, 0, n){
       lli x; cin >> x;
-      mx = max(mx, x);
-      sum += x;
+      pq.push(x);
     }
-    if(mx > sum - mx or sum % 2) cout << "T" << ENDL;
-    else cout << "HL" << ENDL;
+    while(sz(pq) >= 2){
+      lli foo = pq.top(); pq.pop();
+      lli bar = pq.top(); pq.pop();
+      foo--;
+      bar--;
+      if(foo) pq.push(foo);
+      if(bar) pq.push(bar);
+    }
+    if(pq.empty()) cout << "HL" << ENDL;
+    else cout << "T" << ENDL;
   }
   return 0;
 }
