@@ -1682,6 +1682,23 @@
     ],
     "timestamp": "Dec/30/2020 10:51"
   },
+  "CF91888804": {
+    "contest_id": 1409,
+    "language": "GNU C++17",
+    "path": "codeforces/1409/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Subsequences of Length Two",
+    "problem_url": "https://codeforces.com/contest/1409/problem/F",
+    "submission_id": "CF91888804",
+    "submission_url": "https://codeforces.com/contest/1409/submission/91888804",
+    "tags": [
+      "dp",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "Sep/04/2020 14:09"
+  },
   "CF92166821": {
     "contest_id": 1405,
     "language": "GNU C++17",
