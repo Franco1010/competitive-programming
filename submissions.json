@@ -1,4 +1,20 @@
 {
+  "AC17021482": {
+    "contest_id": "abl",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abl/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Repeat ACL",
+    "problem_url": "https://atcoder.jp/contests/abl/tasks/abl_a",
+    "submission_id": "AC17021482",
+    "submission_url": "https://atcoder.jp/contests/abl/submissions/17021482",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/26/2020 07:00"
+  },
   "AC17028291": {
     "contest_id": "abl",
     "language": "C++ (GCC 9.2.1)",
