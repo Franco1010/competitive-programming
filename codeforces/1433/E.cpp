@@ -15,7 +15,7 @@
 #define ENDL '\n'
 using namespace std;
 typedef long double ld;
-typedef unsigned long long lli;
+typedef long long lli;
 typedef pair<lli,lli> ii;
 typedef vector<lli> vi;
 #define deb(x) cout << #x": " << (x) << endl;
