@@ -19,6 +19,13 @@ typedef long long lli;
 typedef pair<lli,lli> ii;
 typedef vector<lli> vi;
 #define deb(x) cout << #x": " << (x) << endl;
+// #define bint __int128;
+lli gcd(lli a, lli b){
+  return b ? gcd(b, a % b) : a;
+}
+lli lcm(lli a, lli b){
+  return a / gcd(a, b) * b;
+}
 int main(){ _
   // freopen("file.in","r",stdin);
   // freopen("file.out","w",stdout);
