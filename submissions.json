@@ -1560,6 +1560,22 @@
     ],
     "timestamp": "Dec/28/2020 10:19"
   },
+  "CF102781466": {
+    "contest_id": 1466,
+    "language": "GNU C++17",
+    "path": "codeforces/1466/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Last minute enhancements",
+    "problem_url": "https://codeforces.com/contest/1466/problem/B",
+    "submission_id": "CF102781466",
+    "submission_url": "https://codeforces.com/contest/1466/submission/102781466",
+    "tags": [
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Dec/30/2020 08:44"
+  },
   "CF102793454": {
     "contest_id": 1466,
     "language": "GNU C++17",
