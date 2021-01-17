@@ -1103,6 +1103,22 @@
     ],
     "timestamp": "Nov/22/2020 12:24"
   },
+  "AC19488775": {
+    "contest_id": "keyence2021",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/keyence2021/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Robot on Grid",
+    "problem_url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_c",
+    "submission_id": "AC19488775",
+    "submission_url": "https://atcoder.jp/contests/keyence2021/submissions/19488775",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/17/2021 00:27"
+  },
   "CF100352114": {
     "contest_id": 1453,
     "language": "GNU C++17",
