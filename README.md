@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-238 | [D - Cleaning](https://codeforces.com/contest/1474/problem/D) | [GNU C++17](./codeforces/1474/D.cpp) | `brute force` `data structures` `dp` `greedy` `math` `*2200` | Jan/19/2021 13:29 | 
+239 | [D - Cleaning](https://codeforces.com/contest/1474/problem/D) | [GNU C++17](./codeforces/1474/D.cpp) | `brute force` `data structures` `dp` `greedy` `math` `*2200` | Jan/19/2021 13:29 | 
+238 | [C - Array Destruction](https://codeforces.com/contest/1474/problem/C) | [GNU C++17](./codeforces/1474/C.cpp) | `brute force` `constructive algorithms` `data structures` `greedy` `implementation` `sortings` `*1700` | Jan/19/2021 11:25 | 
 237 | [F - SUM and REPLACE](https://codeforces.com/contest/920/problem/F) | [GNU C++17](./codeforces/920/F.cpp) | `brute force` `data structures` `dsu` `number theory` `*2000` | Jan/17/2021 03:04 | 
 236 | [C - Robot on Grid](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_c) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/C.cpp) | `AtCoder` `*500` | Jan/17/2021 00:27 | 
 235 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/B.cpp) | `AtCoder` `*400` | Jan/16/2021 18:02 | 
