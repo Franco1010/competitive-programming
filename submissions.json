@@ -1151,6 +1151,22 @@
     ],
     "timestamp": "Jan/17/2021 00:27"
   },
+  "AC19603231": {
+    "contest_id": "abc189",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc189/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Alcoholic",
+    "problem_url": "https://atcoder.jp/contests/abc189/tasks/abc189_b",
+    "submission_id": "AC19603231",
+    "submission_url": "https://atcoder.jp/contests/abc189/submissions/19603231",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/23/2021 06:14"
+  },
   "AC19611785": {
     "contest_id": "abc189",
     "language": "C++ (GCC 9.2.1)",
