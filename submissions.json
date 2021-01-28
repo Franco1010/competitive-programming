@@ -1247,6 +1247,22 @@
     ],
     "timestamp": "Jan/23/2021 07:33"
   },
+  "AC19735471": {
+    "contest_id": "agc017",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/agc017/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Biscuits",
+    "problem_url": "https://atcoder.jp/contests/agc017/tasks/agc017_a",
+    "submission_id": "AC19735471",
+    "submission_url": "https://atcoder.jp/contests/agc017/submissions/19735471",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/28/2021 01:52"
+  },
   "AC19735820": {
     "contest_id": "abc148",
     "language": "C++ (GCC 9.2.1)",
