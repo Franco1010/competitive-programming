@@ -1359,6 +1359,22 @@
     ],
     "timestamp": "Jan/28/2021 02:16"
   },
+  "AC19765713": {
+    "contest_id": "abc141",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc141/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Powerful Discount Tickets",
+    "problem_url": "https://atcoder.jp/contests/abc141/tasks/abc141_d",
+    "submission_id": "AC19765713",
+    "submission_url": "https://atcoder.jp/contests/abc141/submissions/19765713",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/30/2021 00:29"
+  },
   "AC19775662": {
     "contest_id": "abc190",
     "language": "C++ (GCC 9.2.1)",
