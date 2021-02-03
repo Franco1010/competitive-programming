@@ -13,19 +13,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-284 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [GNU C++17](./codeforces/1480/C.cpp) | `binary search` `interactive` `ternary search` `*1700` | Feb/07/2021 09:45 | 
-283 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [GNU C++17](./codeforces/1480/B.cpp) | `greedy` `implementation` `sortings` | Feb/07/2021 09:12 | 
-282 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [GNU C++17](./codeforces/1480/A.cpp) | `games` `greedy` `strings` | Feb/07/2021 08:38 | 
-281 | [D - Circle Lattice Points](https://atcoder.jp/contests/abc191/tasks/abc191_d) | [C++ (GCC 9.2.1)](./atcoder/abc191/D.cpp) | `AtCoder` `*400` | Feb/06/2021 07:36 | 
-280 | [E - Come Back Quickly](https://atcoder.jp/contests/abc191/tasks/abc191_e) | [C++ (GCC 9.2.1)](./atcoder/abc191/E.cpp) | `AtCoder` `*500` | Feb/06/2021 07:07 | 
-279 | [C - Digital Graffiti](https://atcoder.jp/contests/abc191/tasks/abc191_c) | [C++ (GCC 9.2.1)](./atcoder/abc191/C.cpp) | `AtCoder` `*300` | Feb/06/2021 06:37 | 
-278 | [B - Remove It](https://atcoder.jp/contests/abc191/tasks/abc191_b) | [C++ (GCC 9.2.1)](./atcoder/abc191/B.cpp) | `AtCoder` `*200` | Feb/06/2021 06:06 | 
-277 | [A - Vanishing Pitch](https://atcoder.jp/contests/abc191/tasks/abc191_a) | [C++ (GCC 9.2.1)](./atcoder/abc191/A.cpp) | `AtCoder` `*100` | Feb/06/2021 06:04 | 
-276 | [E - Sorting Books](https://codeforces.com/contest/1481/problem/E) | [GNU C++17](./codeforces/1481/E.cpp) | `data structures` `dp` `greedy` | Feb/05/2021 21:05 | 
-275 | [D - AB Graph](https://codeforces.com/contest/1481/problem/D) | [GNU C++17](./codeforces/1481/D.cpp) | `brute force` `constructive algorithms` `graphs` `greedy` `implementation` | Feb/05/2021 14:13 | 
-274 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [GNU C++17](./codeforces/1481/C.cpp) | `brute force` `constructive algorithms` `greedy` | Feb/05/2021 09:32 | 
-273 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [GNU C++17](./codeforces/1481/B.cpp) | `brute force` `greedy` `implementation` | Feb/05/2021 08:59 | 
-272 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [GNU C++17](./codeforces/1481/A.cpp) | `greedy` `strings` | Feb/05/2021 08:45 | 
+285 | [C - Searching Local Minimum](https://codeforces.com/contest/1480/problem/C) | [GNU C++17](./codeforces/1480/C.cpp) | `binary search` `interactive` `ternary search` `*1700` | Feb/07/2021 09:45 | 
+284 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [GNU C++17](./codeforces/1480/B.cpp) | `greedy` `implementation` `sortings` | Feb/07/2021 09:12 | 
+283 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [GNU C++17](./codeforces/1480/A.cpp) | `games` `greedy` `strings` | Feb/07/2021 08:38 | 
+282 | [D - Circle Lattice Points](https://atcoder.jp/contests/abc191/tasks/abc191_d) | [C++ (GCC 9.2.1)](./atcoder/abc191/D.cpp) | `AtCoder` `*400` | Feb/06/2021 07:36 | 
+281 | [E - Come Back Quickly](https://atcoder.jp/contests/abc191/tasks/abc191_e) | [C++ (GCC 9.2.1)](./atcoder/abc191/E.cpp) | `AtCoder` `*500` | Feb/06/2021 07:07 | 
+280 | [C - Digital Graffiti](https://atcoder.jp/contests/abc191/tasks/abc191_c) | [C++ (GCC 9.2.1)](./atcoder/abc191/C.cpp) | `AtCoder` `*300` | Feb/06/2021 06:37 | 
+279 | [B - Remove It](https://atcoder.jp/contests/abc191/tasks/abc191_b) | [C++ (GCC 9.2.1)](./atcoder/abc191/B.cpp) | `AtCoder` `*200` | Feb/06/2021 06:06 | 
+278 | [A - Vanishing Pitch](https://atcoder.jp/contests/abc191/tasks/abc191_a) | [C++ (GCC 9.2.1)](./atcoder/abc191/A.cpp) | `AtCoder` `*100` | Feb/06/2021 06:04 | 
+277 | [E - Sorting Books](https://codeforces.com/contest/1481/problem/E) | [GNU C++17](./codeforces/1481/E.cpp) | `data structures` `dp` `greedy` | Feb/05/2021 21:05 | 
+276 | [D - AB Graph](https://codeforces.com/contest/1481/problem/D) | [GNU C++17](./codeforces/1481/D.cpp) | `brute force` `constructive algorithms` `graphs` `greedy` `implementation` | Feb/05/2021 14:13 | 
+275 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [GNU C++17](./codeforces/1481/C.cpp) | `brute force` `constructive algorithms` `greedy` | Feb/05/2021 09:32 | 
+274 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [GNU C++17](./codeforces/1481/B.cpp) | `brute force` `greedy` `implementation` | Feb/05/2021 08:59 | 
+273 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [GNU C++17](./codeforces/1481/A.cpp) | `greedy` `strings` | Feb/05/2021 08:45 | 
+272 | [B - Bishop](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_b) | [C++ (GCC 9.2.1)](./atcoder/panasonic2020/B.cpp) | `AtCoder` `*200` | Feb/03/2021 13:57 | 
 271 | [E - Pattern Matching](https://codeforces.com/contest/1476/problem/E) | [GNU C++17](./codeforces/1476/E.cpp) | `bitmasks` `data structures` `dfs and similar` `graphs` `sortings` `strings` | Jan/29/2021 20:08 | 
 270 | [D - Journey](https://codeforces.com/contest/1476/problem/D) | [GNU C++17](./codeforces/1476/D.cpp) | `dfs and similar` `dp` `dsu` | Jan/29/2021 10:10 | 
 269 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [GNU C++17](./codeforces/1476/C.cpp) | `constructive algorithms` `dp` `graphs` `greedy` | Jan/29/2021 09:48 | 
