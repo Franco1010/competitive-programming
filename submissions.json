@@ -2574,6 +2574,25 @@
     ],
     "timestamp": "Jan/29/2021 20:08"
   },
+  "CF106625258": {
+    "contest_id": 1481,
+    "language": "GNU C++17",
+    "path": "codeforces/1481/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "AB Graph",
+    "problem_url": "https://codeforces.com/contest/1481/problem/D",
+    "submission_id": "CF106625258",
+    "submission_url": "https://codeforces.com/contest/1481/submission/106625258",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Feb/05/2021 14:13"
+  },
   "CF106637187": {
     "contest_id": 1481,
     "language": "GNU C++17",
