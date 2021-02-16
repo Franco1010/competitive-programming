@@ -2968,6 +2968,23 @@
     ],
     "timestamp": "Feb/07/2021 09:45"
   },
+  "CF107547101": {
+    "contest_id": 1490,
+    "language": "GNU C++17",
+    "path": "codeforces/1490/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Balanced Remainders",
+    "problem_url": "https://codeforces.com/contest/1490/problem/B",
+    "submission_id": "CF107547101",
+    "submission_url": "https://codeforces.com/contest/1490/submission/107547101",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Feb/16/2021 08:50"
+  },
   "CF107549989": {
     "contest_id": 1490,
     "language": "GNU C++17",
