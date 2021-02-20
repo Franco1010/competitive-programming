@@ -1615,6 +1615,22 @@
     ],
     "timestamp": "Feb/06/2021 07:36"
   },
+  "AC20328671": {
+    "contest_id": "abc192",
+    "language": "PyPy3 (7.3.0)",
+    "path": "atcoder/abc192/D.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Base n",
+    "problem_url": "https://atcoder.jp/contests/abc192/tasks/abc192_d",
+    "submission_id": "AC20328671",
+    "submission_url": "https://atcoder.jp/contests/abc192/submissions/20328671",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/20/2021 07:18"
+  },
   "AC20335175": {
     "contest_id": "abc192",
     "language": "C++ (GCC 9.2.1)",
