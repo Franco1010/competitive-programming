@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-322 | [D - Genius's Gambit](https://codeforces.com/contest/1492/problem/D) | [GNU C++17](./codeforces/1492/D.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` | Feb/24/2021 14:24 | 
-321 | [D - Max Median](https://codeforces.com/contest/1486/problem/D) | [GNU C++17](./codeforces/1486/D.cpp) | `binary search` `data structures` `dp` | Feb/24/2021 13:45 | 
-320 | [C - /\/\/\/](https://atcoder.jp/contests/abc111/tasks/arc103_a) | [C++ (GCC 9.2.1)](./atcoder/abc111/C.cpp) | `AtCoder` `*300` | Feb/24/2021 01:30 | 
-319 | [C - Maximum width](https://codeforces.com/contest/1492/problem/C) | [GNU C++17](./codeforces/1492/C.cpp) | `binary search` `data structures` `dp` `greedy` `two pointers` | Feb/23/2021 20:14 | 
-318 | [B - Card Deck](https://codeforces.com/contest/1492/problem/B) | [GNU C++17](./codeforces/1492/B.cpp) | `data structures` `greedy` `math` | Feb/23/2021 19:55 | 
-317 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [GNU C++17](./codeforces/1492/A.cpp) | `math` | Feb/23/2021 19:49 | 
-316 | [E - Train](https://atcoder.jp/contests/abc192/tasks/abc192_e) | [C++ (GCC 9.2.1)](./atcoder/abc192/E.cpp) | `AtCoder` `*500` | Feb/20/2021 07:32 | 
-315 | [D - Base n](https://atcoder.jp/contests/abc192/tasks/abc192_d) | [PyPy3 (7.3.0)](./atcoder/abc192/D.py) | `AtCoder` `*400` | Feb/20/2021 07:18 | 
+323 | [D - Genius's Gambit](https://codeforces.com/contest/1492/problem/D) | [GNU C++17](./codeforces/1492/D.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` | Feb/24/2021 14:24 | 
+322 | [D - Max Median](https://codeforces.com/contest/1486/problem/D) | [GNU C++17](./codeforces/1486/D.cpp) | `binary search` `data structures` `dp` | Feb/24/2021 13:45 | 
+321 | [C - /\/\/\/](https://atcoder.jp/contests/abc111/tasks/arc103_a) | [C++ (GCC 9.2.1)](./atcoder/abc111/C.cpp) | `AtCoder` `*300` | Feb/24/2021 01:30 | 
+320 | [C - Maximum width](https://codeforces.com/contest/1492/problem/C) | [GNU C++17](./codeforces/1492/C.cpp) | `binary search` `data structures` `dp` `greedy` `two pointers` | Feb/23/2021 20:14 | 
+319 | [B - Card Deck](https://codeforces.com/contest/1492/problem/B) | [GNU C++17](./codeforces/1492/B.cpp) | `data structures` `greedy` `math` | Feb/23/2021 19:55 | 
+318 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [GNU C++17](./codeforces/1492/A.cpp) | `math` | Feb/23/2021 19:49 | 
+317 | [E - Train](https://atcoder.jp/contests/abc192/tasks/abc192_e) | [C++ (GCC 9.2.1)](./atcoder/abc192/E.cpp) | `AtCoder` `*500` | Feb/20/2021 07:32 | 
+316 | [D - Base n](https://atcoder.jp/contests/abc192/tasks/abc192_d) | [PyPy3 (7.3.0)](./atcoder/abc192/D.py) | `AtCoder` `*400` | Feb/20/2021 07:18 | 
+315 | [C - Kaprekar Number](https://atcoder.jp/contests/abc192/tasks/abc192_c) | [C++ (GCC 9.2.1)](./atcoder/abc192/C.cpp) | `AtCoder` `*300` | Feb/20/2021 06:12 | 
 314 | [C2 - Guessing the Greatest (hard version)](https://codeforces.com/contest/1486/problem/C2) | [GNU C++17](./codeforces/1486/C2.cpp) | `binary search` `interactive` | Feb/19/2021 19:19 | 
 313 | [C1 - Guessing the Greatest (easy version)](https://codeforces.com/contest/1486/problem/C1) | [GNU C++17](./codeforces/1486/C1.cpp) | `binary search` `interactive` | Feb/19/2021 17:31 | 
 312 | [A - Shifting Stacks](https://codeforces.com/contest/1486/problem/A) | [GNU C++17](./codeforces/1486/A.cpp) | `greedy` `implementation` | Feb/18/2021 10:45 | 
