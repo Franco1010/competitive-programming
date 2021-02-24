@@ -1615,6 +1615,22 @@
     ],
     "timestamp": "Feb/06/2021 07:36"
   },
+  "AC20459907": {
+    "contest_id": "abc111",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc111/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "/\\/\\/\\/",
+    "problem_url": "https://atcoder.jp/contests/abc111/tasks/arc103_a",
+    "submission_id": "AC20459907",
+    "submission_url": "https://atcoder.jp/contests/abc111/submissions/20459907",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/24/2021 01:30"
+  },
   "CF100352114": {
     "contest_id": 1453,
     "language": "GNU C++17",
