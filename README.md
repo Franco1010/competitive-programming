@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+326 | [D - Poker](https://atcoder.jp/contests/abc193/tasks/abc193_d) | [C++ (GCC 9.2.1)](./atcoder/abc193/D.cpp) | `AtCoder` `*400` | Feb/27/2021 06:58 | 
 325 | [D - Genius's Gambit](https://codeforces.com/contest/1492/problem/D) | [GNU C++17](./codeforces/1492/D.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` | Feb/24/2021 14:24 | 
 324 | [D - Max Median](https://codeforces.com/contest/1486/problem/D) | [GNU C++17](./codeforces/1486/D.cpp) | `binary search` `data structures` `dp` | Feb/24/2021 13:45 | 
 323 | [C - /\/\/\/](https://atcoder.jp/contests/abc111/tasks/arc103_a) | [C++ (GCC 9.2.1)](./atcoder/abc111/C.cpp) | `AtCoder` `*300` | Feb/24/2021 01:30 | 
