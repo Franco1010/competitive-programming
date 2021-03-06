@@ -1775,6 +1775,22 @@
     ],
     "timestamp": "Feb/27/2021 06:58"
   },
+  "AC20689960": {
+    "contest_id": "abc194",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc194/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "I Scream",
+    "problem_url": "https://atcoder.jp/contests/abc194/tasks/abc194_a",
+    "submission_id": "AC20689960",
+    "submission_url": "https://atcoder.jp/contests/abc194/submissions/20689960",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/06/2021 06:03"
+  },
   "AC20697191": {
     "contest_id": "abc194",
     "language": "C++ (GCC 9.2.1)",
