@@ -3804,6 +3804,24 @@
     ],
     "timestamp": "Mar/06/2021 10:11"
   },
+  "CF110003860": {
+    "contest_id": 1501,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1501/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Two chandeliers",
+    "problem_url": "https://codeforces.com/contest/1501/problem/D",
+    "submission_id": "CF110003860",
+    "submission_url": "https://codeforces.com/contest/1501/submission/110003860",
+    "tags": [
+      "binary search",
+      "chinese remainder theorem",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Mar/14/2021 19:43"
+  },
   "CF80575545": {
     "contest_id": 1355,
     "language": "GNU C++17",
