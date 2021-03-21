@@ -4218,6 +4218,25 @@
     ],
     "timestamp": "Mar/18/2021 11:01"
   },
+  "CF110660314": {
+    "contest_id": 1484,
+    "language": "GNU C++17",
+    "path": "codeforces/1484/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Basic Diplomacy",
+    "problem_url": "https://codeforces.com/contest/1484/problem/C",
+    "submission_id": "CF110660314",
+    "submission_url": "https://codeforces.com/contest/1484/submission/110660314",
+    "tags": [
+      "combinatorics",
+      "flows",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Mar/21/2021 08:59"
+  },
   "CF110866449": {
     "contest_id": 438,
     "language": "GNU C++17",
