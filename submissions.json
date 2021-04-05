@@ -4218,6 +4218,25 @@
     ],
     "timestamp": "Mar/18/2021 11:01"
   },
+  "CF112039550": {
+    "contest_id": 1504,
+    "language": "GNU C++17",
+    "path": "codeforces/1504/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "3-Coloring",
+    "problem_url": "https://codeforces.com/contest/1504/problem/D",
+    "submission_id": "CF112039550",
+    "submission_url": "https://codeforces.com/contest/1504/submission/112039550",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "graphs",
+      "interactive",
+      "*1700"
+    ],
+    "timestamp": "Apr/04/2021 20:46"
+  },
   "CF112042985": {
     "contest_id": 1504,
     "language": "GNU C++17",
