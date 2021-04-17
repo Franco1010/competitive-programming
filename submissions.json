@@ -1951,6 +1951,22 @@
     ],
     "timestamp": "Mar/13/2021 07:29"
   },
+  "AC21808376": {
+    "contest_id": "jsc2021",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/jsc2021/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Competition",
+    "problem_url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_a",
+    "submission_id": "AC21808376",
+    "submission_url": "https://atcoder.jp/contests/jsc2021/submissions/21808376",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/17/2021 02:18"
+  },
   "AC21809746": {
     "contest_id": "jsc2021",
     "language": "C++ (GCC 9.2.1)",
