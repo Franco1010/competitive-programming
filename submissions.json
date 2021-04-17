@@ -1951,6 +1951,22 @@
     ],
     "timestamp": "Mar/13/2021 07:29"
   },
+  "AC21828363": {
+    "contest_id": "jsc2021",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/jsc2021/F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Max Matrix",
+    "problem_url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_f",
+    "submission_id": "AC21828363",
+    "submission_url": "https://atcoder.jp/contests/jsc2021/submissions/21828363",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Apr/17/2021 04:02"
+  },
   "CF100352114": {
     "contest_id": 1453,
     "language": "GNU C++17",
