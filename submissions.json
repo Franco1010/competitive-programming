@@ -1951,6 +1951,22 @@
     ],
     "timestamp": "Mar/13/2021 07:29"
   },
+  "AC21809746": {
+    "contest_id": "jsc2021",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/jsc2021/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Xor of Sequences",
+    "problem_url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_b",
+    "submission_id": "AC21809746",
+    "submission_url": "https://atcoder.jp/contests/jsc2021/submissions/21809746",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/17/2021 02:20"
+  },
   "AC21813295": {
     "contest_id": "jsc2021",
     "language": "C++ (GCC 9.2.1)",
