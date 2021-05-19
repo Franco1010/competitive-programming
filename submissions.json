@@ -2319,6 +2319,22 @@
     ],
     "timestamp": "May/08/2021 08:11"
   },
+  "AC22723445": {
+    "contest_id": "dp",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/dp/X.cpp",
+    "platform": "AtCoder",
+    "problem_index": "X",
+    "problem_name": "Tower",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_x",
+    "submission_id": "AC22723445",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/22723445",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/18/2021 22:35"
+  },
   "AC25526095": {
     "contest_id": "abc189",
     "language": "C++ (GCC 9.2.1)",
