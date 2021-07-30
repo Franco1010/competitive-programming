@@ -5473,6 +5473,23 @@
     ],
     "timestamp": "Apr/23/2021 13:03"
   },
+  "CF124299719": {
+    "contest_id": 1555,
+    "language": "GNU C++17",
+    "path": "codeforces/1555/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "PizzaForces",
+    "problem_url": "https://codeforces.com/contest/1555/problem/A",
+    "submission_id": "CF124299719",
+    "submission_url": "https://codeforces.com/contest/1555/submission/124299719",
+    "tags": [
+      "brute force",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/30/2021 10:07"
+  },
   "CF124312658": {
     "contest_id": 1555,
     "language": "GNU C++17",
