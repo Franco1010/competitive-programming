@@ -5473,6 +5473,27 @@
     ],
     "timestamp": "Apr/23/2021 13:03"
   },
+  "CF126012457": {
+    "contest_id": 1559,
+    "language": "GNU C++17",
+    "path": "codeforces/1559/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Mocha and Diana (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1559/problem/D1",
+    "submission_id": "CF126012457",
+    "submission_url": "https://codeforces.com/contest/1559/submission/126012457",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1400"
+    ],
+    "timestamp": "Aug/15/2021 11:40"
+  },
   "CF126026570": {
     "contest_id": 1559,
     "language": "GNU C++17",
