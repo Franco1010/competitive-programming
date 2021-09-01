@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
  
  
-public class Problem{
+public class Main{
    public static void main(String[] args) {
       MyScanner sc = new MyScanner();
       out = new PrintWriter(new BufferedOutputStream(System.out));
