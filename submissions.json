@@ -5473,6 +5473,25 @@
     ],
     "timestamp": "Apr/23/2021 13:03"
   },
+  "CF129553293": {
+    "contest_id": 1154,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1154/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Minimum Possible LCM",
+    "problem_url": "https://codeforces.com/contest/1154/problem/G",
+    "submission_id": "CF129553293",
+    "submission_url": "https://codeforces.com/contest/1154/submission/129553293",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "Sep/22/2021 00:47"
+  },
   "CF129702911": {
     "contest_id": 1088,
     "language": "GNU C++17 (64)",
